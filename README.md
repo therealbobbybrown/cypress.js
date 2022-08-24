@@ -11,3 +11,4 @@
 * В package.json версия Cypress немного занижена
 * Кастомайзить Cypress можно в cypress.json
 * Запускать Cypress в git bash командой `node_modules/.bin/cypress open` из папки cypress.js-main
+* Некоторые тесты могут падать (это нормально) - со временем сайты прочухивают и прикрывают лавочку, либо капчу мудрёную ставят
