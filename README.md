@@ -8,5 +8,6 @@
 7. Все новые тесты нужно писать в папке /integration
 
 ### etc
-* В package.json версия cypress немного занижена
-* Кастомайзить cypress можно в cypress.json
+* В package.json версия Cypress немного занижена
+* Кастомайзить Cypress можно в cypress.json
+* Запускать Cypress в git bash командой `node_modules/.bin/cypress open` из папки cypress.js-main
